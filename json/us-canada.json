@@ -1,12 +1,12 @@
 [
 	{
 		"country": "Canada",
-		"country_fullname": "",
+		"country_fullname": "Canada",
 		"currency": "CAD",
 		"flag": "🇨🇦",
 		"iso": "CA",
 		"phonecode": "1",
-		"states": [
+		"provinces": [
 			{
 				"name": "Alberta",
 				"iso": "AB",
@@ -83,258 +83,275 @@
 		"phonecode": "1",
 		"states": [
 			{
-				"name": "",
-				"iso": "",
+				"name": "Alabama",
+				"iso": "AL",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Alaska",
+				"iso": "AK",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Arkansas",
+				"iso": "AR",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Arizona",
+				"iso": "AZ",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "California",
+				"iso": "CA",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Colorado",
+				"iso": "CO",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Connecticut",
+				"iso": "CT",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "District of Columbia",
+				"iso": "DC",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Delaware",
+				"iso": "DE",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Florida",
+				"iso": "FL",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Georgia",
+				"iso": "GA",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Hawaii",
+				"iso": "HI",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Idaho",
+				"iso": "ID",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Illinois",
+				"iso": "IL",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Indiana",
+				"iso": "IN",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Iowa",
+				"iso": "IA",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Kansas",
+				"iso": "KS",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Kentucky",
+				"iso": "KY",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Louisiana",
+				"iso": "LA",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Maine",
+				"iso": "ME",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Maryland",
+				"iso": "MD",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Massachusetts",
+				"iso": "MA",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Michigan",
+				"iso": "MI",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Minnesota",
+				"iso": "MN",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Mississippi",
+				"iso": "MS",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Missouri",
+				"iso": "MO",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Montana",
+				"iso": "MT",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Nebraska",
+				"iso": "NE",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
+				"name": "Nevada",
+				"iso": "NV",
 				"countryCode": "US"
 			},
 			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
-				"countryCode": "US"
-			},
-			{
-				"name": "",
-				"iso": "",
+				"name": "New Hampshire",
+				"iso": "NH",
 				"countryCode": "US"
 			},
 			{
 				"name": "New Jersey",
 				"iso": "NJ",
+				"countryCode": "US"
+			},
+			{
+				"name": "New Mexico",
+				"iso": "NM",
+				"countryCode": "US"
+			},
+			{
+				"name": "New York",
+				"iso": "NY",
+				"countryCode": "US"
+			},
+			{
+				"name": "North Carolina",
+				"iso": "NC",
+				"countryCode": "US"
+			},
+			{
+				"name": "North Dakota",
+				"iso": "ND",
+				"countryCode": "US"
+			},
+			{
+				"name": "Oklahoma",
+				"iso": "OK",
+				"countryCode": "US"
+			},
+			{
+				"name": "Oregon",
+				"iso": "OR",
+				"countryCode": "US"
+			},
+			{
+				"name": "Pennsylvania",
+				"iso": "PA",
+				"countryCode": "US"
+			},
+			{
+				"name": "Rhode Island",
+				"iso": "RI",
+				"countryCode": "US"
+			},
+			{
+				"name": "South Carolina",
+				"iso": "SC",
+				"countryCode": "US"
+			},
+			{
+				"name": "South Dakota",
+				"iso": "SD",
+				"countryCode": "US"
+			},
+			{
+				"name": "Tennessee",
+				"iso": "TN",
+				"countryCode": "US"
+			},
+			{
+				"name": "Texas",
+				"iso": "TX",
+				"countryCode": "US"
+			},
+			{
+				"name": "Utah",
+				"iso": "UT",
+				"countryCode": "US"
+			},
+			{
+				"name": "Vermont",
+				"iso": "VT",
+				"countryCode": "US"
+			},
+			{
+				"name": "Virginia",
+				"iso": "VA",
+				"countryCode": "US"
+			},
+			{
+				"name": "Washington",
+				"iso": "WA",
+				"countryCode": "US"
+			},
+			{
+				"name": "West Virginia",
+				"iso": "WV",
+				"countryCode": "US"
+			},
+			{
+				"name": "Wisconsin",
+				"iso": "WI",
+				"countryCode": "US"
+			},
+			{
+				"name": "Wyoming",
+				"iso": "WY",
+				"countryCode": "US"
+			}
+		],
+		"territories": [
+			{
+				"name": "American Samoa",
+				"iso": "AS",
+				"countryCode": "US"
+			},
+			{
+				"name": "Guam",
+				"iso": "GU",
+				"countryCode": "US"
+			},
+			{
+				"name": "Puerto Rico",
+				"iso": "PR",
+				"countryCode": "US"
+			},
+			{
+				"name": "United States Virgin Islands",
+				"iso": "VI",
 				"countryCode": "US"
 			}
 		]
