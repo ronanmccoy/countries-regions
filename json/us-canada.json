@@ -1,0 +1,342 @@
+[
+	{
+		"country": "Canada",
+		"country_fullname": "",
+		"currency": "CAD",
+		"flag": "🇨🇦",
+		"iso": "CA",
+		"phonecode": "1",
+		"states": [
+			{
+				"name": "Alberta",
+				"iso": "AB",
+				"countryCode": "CA"
+			},
+			{
+				"name": "British Columbia",
+				"iso": "BC",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Manitoba",
+				"iso": "MB",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Newfoundland and Labrador",
+				"iso": "NL",
+				"countryCode": "CA"
+			},
+			{
+				"name": "New Brunswick",
+				"iso": "NB",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Northwest Territories",
+				"iso": "NT",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Nova Scotia",
+				"iso": "NS",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Nunavut",
+				"iso": "NU",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Ontario",
+				"iso": "ON",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Prince Edward Island",
+				"iso": "PE",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Quebec",
+				"iso": "QC",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Saskatchewan",
+				"iso": "SK",
+				"countryCode": "CA"
+			},
+			{
+				"name": "Yukon",
+				"iso": "YT",
+				"countryCode": "CA"
+			}
+		]
+	},
+	{
+		"country": "United States",
+		"country_fullname": "United States of America",
+		"currency": "USD",
+		"flag": "🇺🇸",
+		"iso": "US",
+		"phonecode": "1",
+		"states": [
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "",
+				"iso": "",
+				"countryCode": "US"
+			},
+			{
+				"name": "New Jersey",
+				"iso": "NJ",
+				"countryCode": "US"
+			}
+		]
+	}
+]
